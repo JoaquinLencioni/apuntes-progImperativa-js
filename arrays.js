@@ -1,6 +1,4 @@
 // Arrays
-
-
 let nombres = ['Joaquin', 'Juana', 'Angeles'];
 let edades = [22, 37, 18, 59, 7];
 let booleanos = [true, false, false, true]
@@ -14,9 +12,7 @@ for(let i = 0 ; i < edades.length ; i++){
     console.log(nombres[i]);
 }
 
-
 // ALGORITMOS CLÁSICOS CON ARRAYS
-
 let numeros = [10, 20, 30, 40, 50];
 
 // Modificar cada uno de sus elementos a un array e imprimirlos
@@ -54,7 +50,6 @@ for(let i = 0; i < numeros.length; i++){
 
 let promedio = sumaNumeros / numeros.length; 
 console.log(promedio);
-
 
 // Encontrar el mayor o menor
 let numeros2 = [10,48,7,52,19]
